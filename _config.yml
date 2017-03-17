@@ -1,7 +1,7 @@
 title: Analysis of Top 100 Songs of All Time
 description: STA 141B Final Project
 sitename: STA 141B Final Project
-baseurl: 'https://jiahtan.github.io/STA141B/'
+baseurl: '/one-page-wonder-jekyll/'
 sass:
   sass_dir: /assets/_sass
   style: :compressed

@@ -3,8 +3,10 @@ main {
   section { overflow: hidden; }
 
   img {
-    @extend .img-circle;
     @extend .img-responsive;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 
     &.pull-left {  margin-right: 40px;  }
     &.pull-right {  margin-left: 40px;  }
@@ -20,6 +22,9 @@ main {
     h2 { font-size: 35px; }
 
     img {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
       &.pull-left { margin-right: 20px; }
       &.pull-right { margin-left: 20px; }
     }
@@ -30,6 +35,9 @@ main {
     h2 { font-size: 30px; }
 
     img {
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
       max-width: 50%;
       &.pull-left { margin-right: 10px; }
       &.pull-right { margin-left: 10px; }
@@ -50,7 +58,9 @@ main {
 
     img {
       max-width: 100%;
-
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
       &.pull-left {
         margin-right: 0;
         margin-bottom: 10px;
