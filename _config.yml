@@ -1,0 +1,15 @@
+title: Analysis of Top 100 Songs of All Time
+description: A Jekyll Landing Page Theme
+sitename: STA 141B Final Project
+baseurl: '/one-page-wonder-jekyll'
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
