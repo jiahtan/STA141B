@@ -6,19 +6,19 @@ subheading: Data Characteristic
 image: 
 ---
 
-### Distribution of the Songs Across Time
+### __Distribution of the Songs Across Time__
 
 <iframe src="./assets/plots/songByYear.html" width="650" height="450" style="border:none;"  align="middle"></iframe>
 
  To see if there was a “golden period” of music, where lots of songs got released that eventually ended up on this top 100 list, we examned how many songs end up in the top 100 list for each year. We can see many songs landing between the 70s and early 80s, follow by a period of inacitivty and a slight resurgeance prior to the 20s. Entering into the 20s is another period of low and spikes again around 2010. 
 
-### Repeated Artists
+### __Repeated Artists__
 
 <img src="./assets/images/artistRepeat.jpg">
 
 Getting a frequency count on the number of artists that appear on the list more than once, we only got 7 artists total. (We double count artists that share collaborations)
 
-### A Scoring System Approach
+### __A Scoring System Approach__
 
 <img src="./assets/images/rankingNfrequency.jpg" style="width:600px;height:400px;">
 
@@ -26,7 +26,7 @@ As a different approach to answering ‘when were the good songs released’, we
 
 <img src="./assets/images/2011Songs.JPG">
 
-### Spotify Audio Features
+### __Spotify Audio Features__
 
 <iframe src="./assets/plots/AudioFeaturePlot.html" width="1000" height="600" style="border:none;"  align="middle"></iframe>
 
