@@ -28,6 +28,6 @@ As a different approach to answering ‘when were the good songs released’, we
 
 ### __Spotify Audio Features__
 
-<iframe src="./assets/plots/AudioFeaturePlot.html" width="1000" height="600" style="border:none;"  align="middle"></iframe>
+<iframe src="./assets/plots/AudioFeaturePlot.html" width="1000" height="500" style="border:none;"  align="middle"></iframe>
 
 Some interesting patterns that we noted in the audio features is that for valence and energy, there is a dip between the 1985 and 1990. This may indicate a period of sadder songs hitting the charts. 
