@@ -1,6 +1,10 @@
 main {
   hr { margin: 80px 0; }
   section { overflow: hidden; }
+  
+  .imgContainer{
+    float:left;
+  }
 
   img {
     @extend .img-responsive;
