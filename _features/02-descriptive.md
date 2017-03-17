@@ -16,7 +16,7 @@ image:
 
 <img src="./assets/images/artistRepeat.jpg">
 
-Getting a frequency count on the number of artists that appear on the list more than once, we only got 7 artists total. (We double count artists that share collaborations)
+Getting a frequency count on the number of artists that appear on the list more than once, we got 13 artists total. (We double count artists that share collaborations)
 
 ### __A Scoring System Approach__
 
