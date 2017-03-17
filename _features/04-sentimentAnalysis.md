@@ -11,4 +11,4 @@ Sentiment Analysis was conducted using the Python package [TextBlob](https://tex
 - Polarity: positive or negative connotation, value between [-1,1]
 - Subjectivity: subjective or objective, value between [0,1]
 
-<iframe src="./sentiment.html" width="900" height="400" style="border:none" align="center">
+<iframe src="./assets/plots/sentiment.html" width="900" height="400" style="border:none" align="center">

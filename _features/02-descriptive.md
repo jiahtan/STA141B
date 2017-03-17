@@ -8,4 +8,4 @@ image:
 
 To begin,	
 
-<iframe src="./AccousticFeaturePlot.html" width="600" height="600" style="border:none;">
+<iframe src="./assets/plots/AccousticFeaturePlot.html" width="600" height="600" style="border:none;">
