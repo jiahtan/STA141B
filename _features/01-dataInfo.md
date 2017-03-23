@@ -12,6 +12,8 @@ Then we turn to [songlyrics](http://www.songlyrics.com/) to retrieve the lyrics 
 
 Besides getting just the lyrics, we also used [Spotify's API](https://developer.spotify.com/web-api/get-audio-features/) to extract audio features of the songs. For a detail description of the features, clicked the spotify link above. 
 
+Beside examining list of top 100 songs of all times, we also followed the course instructor's suggestions and looked at Billboard's year-end top 100 songs between the years 1965 and 2015 to see if there is any further insight. Due to time constraint, we did not webscraped the data for this part and instead used a [csv](https://github.com/walkerkq/musiclyrics) file someone else created with this information. 
+
 
 <div class="images">
     <div class="imgContainer">
